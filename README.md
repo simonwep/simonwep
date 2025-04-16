@@ -10,5 +10,8 @@
     <a href="https://github.com/sponsors/simonwep">Sponsorship</a> •
     <a href="https://www.linkedin.com/in/simonreinisch/">LinkedIn</a> •
     <a href="https://stackoverflow.com/users/7664765/simon">Stackoverflow</a>
-    </div>
+    <br/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwep&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical&hide_title=false"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=simonwep&show_icons=true&theme=radical&hide_rank=true&hide_title=true&include_all_commits=true"/>
 </div>
